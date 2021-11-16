@@ -1,6 +1,6 @@
 ## Hi, I'm Stefano :wave:
 - 🎓 Bachelor in Computer Engineering @unipd
-- 📚 Currently master student in ICT Engineering @unipd
+- 📚 I'm Currently master student in ICT Engineering @unipd
 - 💻 Mobile and web developer for fun 
 - 🎯 Focus on Cybersecurity and Data Science
 
