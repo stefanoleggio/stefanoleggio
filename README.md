@@ -1,8 +1,8 @@
 # Hi, I'm Stefano :wave:
 ## About me
 - 🎓 Bachelor in Computer Engineering @unipd
-- 📚 I'm Currently master student in ICT Engineering @unipd
-- 💻 Mobile and web developer for fun 
+- 📚 I'm currently master student in ICT Engineering @unipd
+- 💻 Mobile and Web Developer for fun 
 - 🎯 Focus on Cybersecurity and Data Science
 
 ## My Github stats
