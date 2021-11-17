@@ -2,7 +2,7 @@
 ## About me
 - 🎓 Bachelor in Computer Engineering @unipd
 - 📚 I'm currently master student in ICT Engineering @unipd
-- 💻 Mobile and Web Developer for fun 
+- 💻 Developer in my spare time
 - 🎯 Focus on Cybersecurity and Data Science
 
 ## My Github stats
