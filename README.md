@@ -1,4 +1,5 @@
 # Hi, I'm Stefano <img src="https://raw.githubusercontent.com/stefanoleggio/stefanoleggio/main/images/wave.gif" width="45px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stefanoleggio&label=Views&color=blue&style=plastic" alt="stefanoleggio" /></p>
 ## About me
 - 🎓 Bachelor in Computer Engineering @unipd
 - 📚 I'm currently master student in ICT Engineering @unipd
