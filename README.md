@@ -1,4 +1,4 @@
-# Hi, I'm Stefano <img src="https://raw.githubusercontent.com/stefanoleggio/stefanoleggio/images/wave.gif" width="45px">
+# Hi, I'm Stefano <img src="https://raw.githubusercontent.com/stefanoleggio/stefanoleggio/main/images/wave.gif" width="45px">
 ## About me
 - 🎓 Bachelor in Computer Engineering @unipd
 - 📚 I'm currently master student in ICT Engineering @unipd
