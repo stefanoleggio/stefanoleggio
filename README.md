@@ -22,7 +22,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-SQL          2 mins          ██████████████████████▒░░   89.43 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
