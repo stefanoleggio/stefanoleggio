@@ -4,7 +4,7 @@
 
 ## About me
 - 🎓 Bachelor in Computer Engineering @unipd
-- 📚 I'm currently master student in ICT Engineering @unipd
+- 📚 I'm currently master's student in ICT Engineering @unipd
 - 💻 Developer in my spare time
 - 🎯 Focus on Cybersecurity and Data Science
 
