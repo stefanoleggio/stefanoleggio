@@ -23,7 +23,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python     1 hr 27 mins    ██████████████████████░░░   88.44 %
+C++        8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
 ```
 
 <!--END_SECTION:waka-->
