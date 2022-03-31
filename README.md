@@ -23,7 +23,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TeX   6 mins          █████████████████████████   100.00 %
+TeX   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
