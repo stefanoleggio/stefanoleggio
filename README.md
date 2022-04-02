@@ -5,8 +5,7 @@
 ## About me
 - 🎓 Bachelor in Computer Engineering @unipd
 - 📚 I'm currently master's student in ICT Engineering @unipd
-- 💻 Developer in my spare time
-- 🎯 Main interests: Cybersecurity, Software development and Space technologies
+- 🎯 Main interests: Cybersecurity, Software engineering and Space technologies
 
 
 ## My GitHub stats
