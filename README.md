@@ -22,10 +22,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Blade Template   11 mins         █████████████████░░░░░░░░   67.63 %
-Python           2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
-JSON             2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
-JavaScript       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Python           4 hrs 52 mins   ██████████████████████▓░░   90.42 %
+Other            16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
 ```
 
 <!--END_SECTION:waka-->
