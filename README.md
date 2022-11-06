@@ -26,5 +26,3 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-[![@stefanoleggio's Holopin board](https://holopin.io/api/user/board?user=stefanoleggio)](https://holopin.io/@stefanoleggio)
