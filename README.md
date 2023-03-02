@@ -5,6 +5,7 @@
 ## About me
 - 🎓 Bachelor in Computer Engineering @unipd
 - 📚 I'm currently master's student in ICT Engineering @unipd
+- 🚀 Intern @esa - System Security Engineering department (TEC-ESS)
 - 🎯 Main interests: Cybersecurity, Software engineering and Space technologies
 
 
