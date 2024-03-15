@@ -5,7 +5,7 @@
 ## About me
 - 🎓 Bachelor's degree in Computer Engineering @unipd
 - 🎓 Master's degree in Telecommunications Engineering @unipd
-- ⚛️ Software Engineer @ [QTI](qticompany.com)
+- ⚛️ Software Engineer @ [QTI](https://www.qticompany.com/)
 - 🎯 Main interests: Software Engineering, Cybersecurity, Quantum information and Cryptography
 
 
