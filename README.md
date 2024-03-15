@@ -3,10 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefanoleggio&label=Views&color=blue&style=plastic" alt="stefanoleggio" /></p>
 
 ## About me
-- 🎓 Bachelor in Computer Engineering @unipd
-- 📚 I'm currently master's student in ICT Engineering @unipd
-- 🚀 Intern @esa - System Security Engineering department (TEC-ESS)
-- 🎯 Main interests: cybersecurity, software engineering and space technologies
+- 🎓 Bachelor's degree in Computer Engineering @unipd
+- 🎓 Master's degree in Telecommunications Engineering @unipd
+- 🚀 Intern @ ESA - System Security Engineering department (TEC-ESS)
+- ⚛️ Software Engineer @ QTI
+- 🎯 Main interests: Software Engineering, Cybersecurity, Quantum information and Cryptography
 
 
 ## My GitHub stats
