@@ -5,8 +5,7 @@
 ## About me
 - 🎓 Bachelor's degree in Computer Engineering @unipd
 - 🎓 Master's degree in Telecommunications Engineering @unipd
-- 🚀 Intern @ ESA - System Security Engineering department (TEC-ESS)
-- ⚛️ Software Engineer @ QTI
+- ⚛️ Software Engineer @ [QTI](www.qticompany.com)
 - 🎯 Main interests: Software Engineering, Cybersecurity, Quantum information and Cryptography
 
 
