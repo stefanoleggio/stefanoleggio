@@ -5,8 +5,8 @@
 ## About me
 - 🎓 Bachelor's degree in Computer Engineering @unipd
 - 🎓 Master's degree in Telecommunications Engineering @unipd
-- ⚛️ Software Engineer @ [QTI](https://www.qticompany.com/)
-- 🎯 Main interests: Software Engineering, Cybersecurity, Quantum information and Cryptography
+- 👨‍💻 PhD Student @ [santanna](https://www.santannapisa.it)
+- 🎯 Main interests: AI safety and security, cybersecurity, software engineering
 
 
 ## My GitHub stats
